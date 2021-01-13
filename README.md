@@ -1,4 +1,4 @@
-# FINAL ASSIGNMENT OF 'DATA ANALYSIS WITH PYTHON' COURSE.
+# Final Assignment of Data Analysis with Python course
 
 # Assignment Scenario:
    You are a Data Analyst working at a Real Estate Investment Trust.
