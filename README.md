@@ -1,3 +1,5 @@
+THIS IS THE FINAL ASSIGNMENT OF 'DATA ANALYSIS WITH PYTHON' COURSE.
+
 ASSIGNMENT SCENARIO:
     You are a Data Analyst working at a Real Estate Investment Trust.
  The Trust will like to start investing in Residential real estate. You 
